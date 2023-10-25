@@ -16,6 +16,8 @@ My name is Carine Bertagnolli Bathaglini, I am 26 years old, and I live in Brazi
 <p align="center">
 	<a href="mailto:cbbathaglini@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/carine-bertagnolli-945038148/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.twitch.tv/cbcarine"><img src="https://img.shields.io/twitch/status/cbcarine" alt="Twitch"/></a>
+ 
 </p>
 
 <br><br>
