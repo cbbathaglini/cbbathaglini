@@ -6,9 +6,22 @@ My name is Carine Bertagnolli Bathaglini, I am 26 years old, and I live in Brazi
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,spring,dotnet,docker,kubernetes,php,aws,bootstrap,css,discord,docker,express,firebase,github,html,idea,java,js,kotlin,md,mongodb,mysql,nodejs,postman,py,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,java,spring,dotnet,docker,kubernetes,php,aws,bootstrap,css,discord,docker,mysql,express,firebase,github,html,idea,java,js,kotlin,md,mongodb,mysql,nodejs,postman,py,react,vscode&perline=14" />
   </a>
 </p>
+
+<br><br>
+
+
+## 📍 Stats
+
+
+<p align="center">
+	<a href="https://github.com/cbbathaglini">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=cbbathaglini&show_icons=true" alt="cbbathaglini">	</a>
+	
+</p>
+
 
 <br><br>
 
@@ -26,7 +39,7 @@ My name is Carine Bertagnolli Bathaglini, I am 26 years old, and I live in Brazi
 - <a href="https://www.canva.com/design/DAFv9BTmEXc/NMVtah-KIgRtAOqWWgS7TA/edit?utm_content=DAFv9BTmEXc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="noopener">APIs RESTful: princípios e boas práticas</a> de Carine Bertagnolli
 
 
-
+<br><br>
 
 <h2> 🎧 Spotify Playing </h2>
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
