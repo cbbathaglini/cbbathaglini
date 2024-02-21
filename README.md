@@ -36,10 +36,10 @@ My name is Carine Bertagnolli Bathaglini, I am 26 years old, and I live in Brazi
 <br><br>
 
 <h2> ⚡ Apresentações </h2>
-- <a href="https://www.canva.com/design/DAFv9BTmEXc/NMVtah-KIgRtAOqWWgS7TA/edit?utm_content=DAFv9BTmEXc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="noopener">APIs RESTful: princípios e boas práticas</a> de Carine Bertagnolli
-- <a href="https://www.canva.com/design/DAFv9BTmEXc/NMVtah-KIgRtAOqWWgS7TA/edit?utm_content=DAFv9BTmEXc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="noopener">SOAP: Simple Object Access</a> de Carine Bertagnolli
-- <a href="https://www.canva.com/design/DAFv9BTmEXc/NMVtah-KIgRtAOqWWgS7TA/edit?utm_content=DAFv9BTmEXc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="noopener">OAuth2</a> de Carine Bertagnolli
-- <a href="[https://www.canva.com/design/DAFv9BTmEXc/NMVtah-KIgRtAOqWWgS7TA/edit?utm_content=DAFv9BTmEXc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="noopener">Padrão SAGA</a> de Carine Bertagnolli
+- <a href="https://www.canva.com/design/DAFv9BTmEXc/NMVtah-KIgRtAOqWWgS7TA/edit?utm_content=DAFv9BTmEXc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="noopener">APIs RESTful: princípios e boas práticas</a> de Carine Bertagnolli <br>
+- <a href="https://www.canva.com/design/DAFv9BTmEXc/NMVtah-KIgRtAOqWWgS7TA/edit?utm_content=DAFv9BTmEXc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="noopener">SOAP: Simple Object Access</a> de Carine Bertagnolli<br>
+- <a href="https://www.canva.com/design/DAFv9BTmEXc/NMVtah-KIgRtAOqWWgS7TA/edit?utm_content=DAFv9BTmEXc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="noopener">OAuth2</a> de Carine Bertagnolli<br>
+- <a href="[https://www.canva.com/design/DAFv9BTmEXc/NMVtah-KIgRtAOqWWgS7TA/edit?utm_content=DAFv9BTmEXc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="noopener">Padrão SAGA</a> de Carine Bertagnolli<br>
 
 
 <br><br>
